@@ -31,3 +31,12 @@ I am a final year computer science student in Monash University Malaysia, majori
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
+
+
+### 📊 Stats
+
+![Dayans's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRecklessdoctor&show_icons=true&theme=gruvbox)
+
+<details>
+ <summary><h3>👨‍💻 My Coding journey</h3></summary>
+Computer Science wasn't the first thing on my mind during high school and certainly did not crop up when applying to university. A series of mishaps during the application process lead me to CS. The one component of CS that attracted me to it was it's problem solving component which was similar in that sense to Mathematics, which was my first choice of degree. It was during my degree that I got attracted to Artificial Intelligence and the efforts to replicate and recreate human intelligence in a machine. I had been teaching myself web development as a personal project from various online including FreeCodeCamp and TheOdinProject and my interest in AI and software development coincided when I realised that there was a serious lack of AI used in the front end of consumer applications. Most AI tools are either used behind the scenes and not explicity visible to end users so my goal and passion is to integrate the two in order to build useful products for users. 
